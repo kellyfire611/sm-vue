@@ -1,0 +1,129 @@
+{
+  "ok": "Đồng ý",
+  "close": "Thoát",
+  "cancel": "Hủy bỏ",
+  "error_alert_title": "Ồ ố ô...",
+  "error_alert_text": "Dường như có gì đó hoạt động không đúng! Vui lòng thử lại lần nữa.",
+  "token_expired_alert_title": "Phiên làm việc đã hết hạn!",
+  "token_expired_alert_text": "Vui lòng đăng nhập lại để tiếp tục.",
+  "login": "Đăng nhập",
+  "register": "Đăng ký",
+  "page_not_found": "Không tìm thấy trang",
+  "go_home": "Về trang chủ",
+  "logout": "Đăng xuất",
+  "email": "Email",
+  "remember_me": "Ghi nhớ tự động đăng nhập",
+  "password": "Mật khẩu",
+  "forgot_password": "Quên mật khẩu?",
+  "confirm_password": "Xác nhận mật khẩu",
+  "name": "Tên",
+  "toggle_navigation": "Đóng/Mở thanh điều hướng",
+  "home": "Trang chủ",
+  "you_are_logged_in": "Bạn đã đăng nhập!",
+  "reset_password": "Khôi phục mật khẩu",
+  "send_password_reset_link": "Gởi link khôi phục mật khẩu",
+  "settings": "Cấu hình",
+  "profile": "Trang cá nhân",
+  "your_info": "Thông tin của bạn",
+  "info_updated": "Thông tin của bạn đã được cập nhật!",
+  "update": "Cập nhật",
+  "your_password": "Mật khẩu của bạn",
+  "password_updated": "Mật khẩu của bạn đã được cập nhật!",
+  "new_password": "Mật khẩu mới",
+  "password_length_hint": "Ít nhất 8 ký tự",
+  "nav_menu_title": "Application Menu",
+
+  "online"                : "Đang có mặt",
+  "setting"               : "Cấu hình",
+  "username"              : "Tên tài khoản",
+  "password_confirmation" : "Xác nhận mật khẩu",
+  "user_setting"          : "User setting",
+  "avatar"                : "Avatar",
+
+  "list"         : "Danh sách",
+  "new"          : "Mới",
+  "create"       : "Tạo mới",
+  "delete"       : "Xóa",
+  "remove"       : "Loại bỏ",
+  "edit"         : "Sửa",
+  "view"         : "Xem",
+  "browse"       : "Browse",
+  "reset"        : "Reset",
+  "clear"        : "Nhập lại",
+  "export"       : "Xuất dữ liệu",
+  "batch_delete" : "Xóa hàng loạt",
+  "save"         : "Lưu",
+  "refresh"      : "Làm mới",
+  "order"        : "Sắp xếp",
+  "expand"       : "Mở rộng",
+  "collapse"     : "Xếp lại",
+  "filter"       : "Lọc dữ liệu",
+  "show"         : "Show",
+  "entries"      : "entries",
+  "captcha"      : "Captcha",
+
+  "action"            : "Hành động",
+  "title"             : "Tiêu đề",
+  "description"       : "Diễn giải",
+  "back"              : "Trở về",
+  "back_to_list"      : "Trở về danh sách",
+  "submit"            : "Gởi dữ liệu",
+  "menu"              : "Menu",
+  "input"             : "Nhập",
+  "succeeded"         : "Thành công",
+  "failed"            : "Thất bại",
+  "delete_confirm"    : "Bạn có chắc chắn muốn xóa dữ liệu này ?",
+  "delete_succeeded"  : "Xóa thành công !",
+  "delete_failed"     : "Xóa thất bại !",
+  "update_succeeded"  : "Cập nhật thành công !",
+  "save_succeeded"    : "Lưu thành công !",
+  "refresh_succeeded" : "Đã làm mới thành công !",
+  "login_successful"  : "Đăng nhập thành công",
+
+  "choose"       : "Choose",
+  "choose_file"  : "Select file",
+  "choose_image" : "Select image",
+
+  "more" : "More",
+  "deny" : "Permission denied",
+
+  "administrator" : "Administrator",
+  "roles"         : "Roles",
+  "permissions"   : "Permissions",
+  "slug"          : "Slug",
+
+  "created_at" : "Ngày khởi tạo",
+  "updated_at" : "Ngày cập nhật",
+
+  "alert" : "Alert",
+
+  "parent_id" : "Parent",
+  "icon"      : "Icon",
+  "uri"       : "URI",
+
+  "operation_log"       : "Operation log",
+  "parent_select_error" : "Parent select error",
+
+  
+
+  "role"       : "Role",
+  "permission" : "Permission",
+  "route"      : "Route",
+  "confirm"    : "Xác nhận",
+
+  "store_sanpham": "Sản phẩm",
+  "store_sanpham.ma_sanpham": "Mã sản phẩm",
+  
+
+
+  "validations": {
+    "attributes": {
+      "name": "Họ tên"
+    },
+
+    "messages": {
+      "_default": "Giá trị của ${field} không đúng.",
+      "required": "${field} là bắt buộc aaaaaaaaaaaaaaaaaaaa."
+    }
+  }
+}
